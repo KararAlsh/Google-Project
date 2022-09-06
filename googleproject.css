@@ -12,17 +12,30 @@
 /* BUTTONS */
 
 button {
+	background-color: #4285f3;
+	border-radius: 5px;
+	border-color: #1a5fd0;
+	color: white;
 	cursor: pointer;
+	height: 38px;
+	width:~80px;
+}
+button:hover {
+	color: #5998ff;
 }
 
 /* FORMS */
+.searchbar {
 
-form {
-
+	border-radius: 30px;
+	border-color: #c4c4c4;
+	color: #5b5b5b;
+	height: 35px;
+	width: 400px;
 }
 
 /* LAYOUT */
 
-body {
+section {
 
 }
