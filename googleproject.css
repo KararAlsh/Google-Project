@@ -17,14 +17,16 @@
 	background-color: #4285f3;
 	border-radius: 5px;
 	border-color: #1a5fd0;
+	border-style: solid;
+	border-width: 1px;
 	color: white;
 	cursor: pointer;
 	margin-top: 20px;
-	font-size: 15px;
-	padding: 8px 15px;
+	font-size: 14px;
+	padding: 10px 15px;
 }
 .search-button:hover {
-	color: #5998ff;
+	background-color: #5998ff;
 }
 
 /* FORMS */
