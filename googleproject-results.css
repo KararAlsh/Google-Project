@@ -27,8 +27,8 @@ body {
 	cursor: pointer;
 	margin-top: 20px;
 	margin-left: 10px;
-	font-size: 14px;
-	padding: 10px 15px;
+	font-size: 13px;
+	padding: 8px 19px;
 }
 .results-button:hover {
 	background-color: #5998ff;
@@ -58,4 +58,32 @@ header {
 main {
 	margin-top: 20px;
 	margin-left: 180px;
+	margin-right: 390px
+}
+
+.result-box {
+	margin-top: 30px;
+}
+
+.results-webname {
+	margin-bottom:100px;
+}
+ul {
+	padding-left: 0;
+	font-size: 12px;
+}
+
+li {
+	display: inline;
+	padding-right: 10px;
+}
+
+h1 {
+	color: #1a0dab;
+	font-size: 24px;
+	margin-bottom: 7px;
+	margin-top: 5px;
+}
+.results-name {
+	text-decoration: none;
 }
